@@ -35,8 +35,9 @@ Here are a few examples.
 ### BAF
 
 ```bash
-svn cp "https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/trunk"
-"https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/tags/1.1.0" -m "Tagging version 1.1.0"
+svn cp "https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/trunk" \
+       "https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/tags/1.1.1" \
+       -m "Tagging version 1.1.1"
 ```
 
 ```bash
