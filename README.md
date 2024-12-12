@@ -32,7 +32,7 @@ svn cp "<trunk_path>" "<trunk_version>" -m "tag message"
 
 Here are a few examples.
 
-### BAF
+### BWL Advanced FAQ Lite
 
 ```bash
 svn cp "https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/trunk" \
@@ -40,13 +40,18 @@ svn cp "https://plugins.svn.wordpress.org/bwl-advanced-faq-manager-lite/trunk" \
        -m "Tagging version 1.1.1"
 ```
 
-```bash
-BPM
-svn cp "https://plugins.svn.wordpress.org/bwl-poll-manager-lite/trunk" "https://plugins.svn.wordpress.org/bwl-poll-manager-lite/tags/1.0.6" -m "Tagging version 1.0.6"
-```
+### BWL Poll Manager Lite
 
 ```bash
-USAVC
-svn cp" https://plugins.svn.wordpress.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/trunk"
-"https://plugins.svn.wordpress.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/tags/1.0.7" -m "Tagging version 1.0.7"
+svn cp "https://plugins.svn.wordpress.org/bwl-poll-manager-lite/trunk" \
+       "https://plugins.svn.wordpress.org/bwl-poll-manager-lite/tags/1.0.8" \
+       -m "Tagging version 1.0.8"
+```
+
+### Ultimate Searchable Accordion Lite
+
+```bash
+svn cp "https://plugins.svn.wordpress.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/trunk" \
+       "https://plugins.svn.wordpress.org/ultimate-searchable-accordion-lite-wpbakery-page-builder-addon/tags/1.0.8" \
+       -m "Tagging version 1.0.8"
 ```
