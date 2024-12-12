@@ -1,4 +1,4 @@
-# wporg-submit-plugin
+# Submit A Plugin to WordPress.org Repository
 
 A step by step guidelines to submit plugin to WordPress.org
 
