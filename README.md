@@ -2,6 +2,13 @@
 
 A step by step guidelines to submit plugin to WordPress.org
 
+## Submit A New Plugin.
+
+Navgiate to the link and upload your plugin.
+https://wordpress.org/plugins/developers/add/
+
+![Submit A New Plugin.](previews/upload_plugin.jpg)
+
 ## Check svn status
 
 ```bash
